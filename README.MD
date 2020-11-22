@@ -1,9 +1,4 @@
---=|======================================|=--
---=|    This Script Coded By wh0am!       |=--
---=|    From Where ? actually Nowhere     |=--
---=|    Based on php func and some tricks |=--
---=|    Do Not Change anythin you might.. |=--
---=|    Scrue up the bot ... :/           |=--
---=|    anyway happy hackin .. <3         |=--
---=|    Peace and Love From n0where xD    |=--
---=|======================================|=--
+•This Script Coded By wh0am!        •Scrue up the bot
+•From Where ? actually Nowhere      •anyway happy hackin .. <3 
+•Based on php func and some tricks  •Peace and Love From n0where xD
+•Do Not Change anythin you might..  •#m4dl33ts
